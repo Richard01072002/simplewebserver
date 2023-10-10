@@ -45,7 +45,7 @@ content = """
 
 ![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/70050f1c-00f0-432a-ba7b-dab3f180ce58)
 
-![Screenshot 2023-10-10 091854](https://github.com/Richard01072002/simplewebserver/assets/141472248/16e61875-9950-4009-9940-9676c434ac3c)
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/4522c961-1660-48af-9934-63838be52de6)
 
 
 ## RESULT:
