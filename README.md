@@ -43,9 +43,9 @@ Kli›Intuit‹/li>
 
 ## OUTPUT:
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/ddb53263-341a-4cf2-81ee-f4f3f913f13e)
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/70050f1c-00f0-432a-ba7b-dab3f180ce58)
 
-![Screenshot 2023-10-10 091854](https://github.com/Richard01072002/simplewebserver/assets/141472248/b3a3edda-91ba-48d4-9f5a-0ab352f2a1ad)
+![Screenshot 2023-10-10 091854](https://github.com/Richard01072002/simplewebserver/assets/141472248/16e61875-9950-4009-9940-9676c434ac3c)
 
 
 ## RESULT:
