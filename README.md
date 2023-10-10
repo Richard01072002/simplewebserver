@@ -30,11 +30,11 @@ content = """
 <body>
 <h1><u>Languages used iun Web Development</u><h1>
 <ul>
-‹li›Microsoft‹/li>
-‹li›oracle‹/li>
-‹li›Salesforce‹/li>
+<li>Microsoft</li>
+<li>oracle</li>
+<li>Salesforce</li>
 <i>IBM</li>
-Kli›Intuit‹/li>
+<li>Intuit</li>
 </body>
 </html>
 
