@@ -30,11 +30,11 @@ content = """
 <body>
 <h1><u>Languages used iun Web Development</u><h1>
 <ul>
-<li>APPLE</li>
-<li>INTEL</li>
-<li>ANDRIOD</li>
-<li>MICROSOFT</li>
-<li>BLACK BERRY</li>
+‹li›Microsoft‹/li>
+‹li›oracle‹/li>
+‹li›Salesforce‹/li>
+<i>IBM</li>
+Kli›Intuit‹/li>
 </body>
 </html>
 
@@ -43,9 +43,9 @@ content = """
 
 ## OUTPUT:
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/256223c4-3fb3-4317-bb37-45240b6c0ea4)
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/ddb53263-341a-4cf2-81ee-f4f3f913f13e)
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/962f09bf-453e-471a-9218-15725c960fbe)
+![Screenshot 2023-10-10 091854](https://github.com/Richard01072002/simplewebserver/assets/141472248/b3a3edda-91ba-48d4-9f5a-0ab352f2a1ad)
 
 
 ## RESULT:
