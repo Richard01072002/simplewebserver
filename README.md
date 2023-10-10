@@ -30,11 +30,10 @@ content = """
 <body>
 <h1><u>Languages used iun Web Development</u><h1>
 <ul>
-<li>Microsoft</li>
-<li>oracle</li>
-<li>Salesforce</li>
-<i>IBM</li>
-<li>Intuit</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Bootstrap</li>
 </body>
 </html>
 
@@ -43,9 +42,11 @@ content = """
 
 ## OUTPUT:
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/70050f1c-00f0-432a-ba7b-dab3f180ce58)
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/5bd335d7-c1a6-4d13-b3ca-342258ffbdf3)
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/57cbb001-aba0-4752-a335-fb385fbf5ceb)
+
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/ca740832-114c-415e-a010-a16e8ddd11b7)
+
 
 
 ## RESULT:
