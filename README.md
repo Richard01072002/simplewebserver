@@ -16,36 +16,48 @@ Testing the webserver
 
 ## PROGRAM:
 ```
-
 Developer: RICHARDSON A
 REGISTER Number: 23000803
 
+from http.server import HTTPServer, BaseHTTPRequestHandler
+content = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>My webserver</title>
+<title>Top 5 Revenue Company</title>
 </head>
 <body>
-<h1><u>Languages used iun Web Development</u><h1>
+<h1><u>Top 5 Revenue Company</u><h1>
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Bootstrap</li>
+<li>Apple</li>
+<li>Microsoft</li>
+<li>BlackBerry</li>
+<li>Samsung</li>
+<li>Mi</li>
 </body>
 </html>
+"""
+class myhandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        print("request received")
+        self.send_response(200)
+        self.send_header('content-type', 'text/html; charset=utf-8')
+        self.end_headers()
+        self.wfile.write(content.encode())
+server_address = ('',8000)
+httpd = HTTPServer(server_address,myhandler)
+print("my webserver is running...")
+httpd.serve_forever()
 
 ```
 
 
 ## OUTPUT:
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/66b3f888-8ab9-43a9-924e-4512397dab5c)
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/cb4a9ec1-b0bc-416d-8332-41669f683fa3)
 
 
-
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/ca740832-114c-415e-a010-a16e8ddd11b7)
-
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/4142cea8-6fb9-49d9-ba59-341ff04fdde0)
 
 
 ## RESULT:
