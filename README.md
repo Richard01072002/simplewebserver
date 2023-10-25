@@ -20,8 +20,6 @@ Testing the webserver
 Developer: RICHARDSON A
 REGISTER Number: 23000803
 
-from http.server import HTTPServer, BaseHTTPRequestHandler
-content = """
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,7 +40,8 @@ content = """
 
 ## OUTPUT:
 
-![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/5bd335d7-c1a6-4d13-b3ca-342258ffbdf3)
+![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/66b3f888-8ab9-43a9-924e-4512397dab5c)
+
 
 
 ![image](https://github.com/Richard01072002/simplewebserver/assets/141472248/ca740832-114c-415e-a010-a16e8ddd11b7)
